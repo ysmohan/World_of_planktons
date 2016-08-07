@@ -1,2 +1,2 @@
 # World_of_planktons
-Challenge data for the segmentation tutorial
+Challenge data for the image segmentation tutorial
